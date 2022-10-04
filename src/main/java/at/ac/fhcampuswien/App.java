@@ -178,7 +178,7 @@ public class App {
             int z4 = z2 / 10;
 
 
-            System.out.println(z1 * 100 + z3 * 10 + z4 * 1);
+            System.out.println(z1 * 100 + z3 * 10 + z4);
         }
     }
 
